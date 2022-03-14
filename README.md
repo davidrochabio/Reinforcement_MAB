@@ -1,6 +1,6 @@
 # Reinforcement_MAB
 
-Developing Multiple Armed Bandits algo for optimizing movies recomendations
+Epsilon Greedy and UCB algorithms for Multi Armed Bandits problem.
 
 ![plot](screenshots/reinforce_mab.jpg)
 
